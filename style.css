@@ -23,6 +23,18 @@ header{
     background-color: #FCEEF1;
    
 }
+.nav-sec{
+    padding-top: 10px;
+}
+ul{
+    display: flex;
+}
+li{
+    padding-left: 30px;
+    list-style: none;
+}
+
+
 .header-write-section{
     margin-top: 150px;
     width: 50%;
