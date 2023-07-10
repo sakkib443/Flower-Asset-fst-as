@@ -1,0 +1,226 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+p{
+    font-size: 12px;
+}
+.container{
+    width: 75%;
+    margin: auto;
+}
+.small-container{
+    width: 60%;
+    margin: auto;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+header{
+    background-color: #FCEEF1;
+   
+}
+.header-write-section{
+    margin-top: 150px;
+    width: 50%;
+}
+.header-write-section h1{
+    font-size: 50px;
+    line-height: 58.2px;
+}
+.header-write-section p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.header-write-section button{
+    padding: 12px 16px;
+    background: #E55473;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.header-img-section img{
+    width: 65%;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+
+
+/* Featured section */
+
+.heading{
+    margin-top: 100px;
+    text-align: center;
+}
+.featured-heading h1{
+    font-size: 70px;
+    margin-bottom: 10px;=
+}
+.col-3{
+    margin-top: 50px;
+    background: #E55473;
+    width: 285px;
+    height: 330px;
+    border-radius:150px 150px  0 0 ;
+   
+}
+
+
+.first-col{
+    background: #F2DEE7;
+
+}
+.first-col img{
+    width: 75%;
+    margin-top: 61px;
+    margin-left: 20px;
+}
+
+.secend-col{
+    background: #D9EFF1;
+
+}
+.secend-col img{
+    width: 85%;
+    margin-top: 70px;
+    margin-left: 30px;
+    margin-bottom: 18px;
+}
+.thaird-col{
+    background: #E3EBDB;
+
+}
+.thaird-col img{
+    width: 65%;
+    margin-top: 54px;
+    margin-left: 50px;
+}
+.col-3 h4{
+    text-align: center;
+    margin-top: 10px;
+    border-bottom: 3px solid black;
+    
+}
+.secend-col h4{
+   
+    margin-top: 10px;
+    
+    
+}
+.featured-section{
+    margin-bottom: 200px;
+}
+
+
+.icon-section{
+    align-items: center;
+    background: #F4F4F4;
+    padding: 30px 40px;
+    margin: 0 300px;
+    margin-bottom: 200px;
+}
+.fast-icon img{
+    padding-left: 60px;
+    margin-bottom: 10px;
+    width: 38%;
+  
+}
+.secend-icon img{
+    padding-left: 60px;
+    margin-bottom: 10px;
+    width: 40%;
+  
+}
+.third-icon img{
+    padding-right: 0px;
+    margin-bottom: 10px;
+    width: 60%;
+  
+}
+
+/* offer section */
+
+.offer-section{
+   
+    background:#FEF6F8;
+}
+.offer-section{
+    margin-bottom: 200px;
+    padding-bottom: 30px;
+}
+.offer-section .writen-section{
+    text-align: center;
+   margin-left: 250px;
+   margin-top: 140px;
+}
+.writen-section span{
+    color: tomato;
+    font-size: 32px;
+    
+}
+.writen-section button{
+    padding: 12px 16px;
+    background: #E55473;
+    color: white;
+    border: none;
+    border-radius: 5px;margin-top: 20PX;
+}
+.writen-section H1{
+    margin-bottom: 10PX;
+}
+.img-section img{
+    margin-right: 250px;
+    width: 40%;
+    margin-top: 3px;
+}
+
+/* instrogram section */
+.instagram-section{
+    margin-bottom: 150px;
+}
+.col-4{
+   width: 23%;
+   margin-top: 30px;
+}
+.col-4 img{
+    width: 100%;
+}
+
+
+
+/* Latest-Deals */
+.Latest-Deals{
+    background-image: url(img/Rectangle\ 9.png);
+    padding: 30px ;
+    margin-bottom: 100px;
+    background-size: cover;
+    
+}
+.Latest-Deals input{
+    margin-top: 10px;
+    padding: 7px 120px;
+}
+.Latest-Deals button{
+    padding: 8px 14px;
+    background: #E55473;
+    border: none;
+    border-radius: 3px;
+}
+.Latest-Deals h1{
+    margin-top: -50px;
+}
+
+/* footer */
+footer{
+    background: black;
+    color: #E3EBDB;
+    text-align: center;
+    padding: 30px 0;
+}
+.Shop{
+    color: #E55473;
+}
